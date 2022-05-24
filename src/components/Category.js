@@ -54,7 +54,7 @@ console.log(items)
                     <button className="btn btn-outline-primary"><AiOutlineHeart/>
                       Watch
                     </button>
-                    <Stars/>
+                    {/* <Stars/> */}
                   </div>
                 </div>
                 
